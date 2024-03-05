@@ -2,5 +2,5 @@
 - Nhánh hot-fix:
 - Nhánh release:
 - Nhánh fix-bug:
-- Nhánh developer:
-- Nhánh feature:
+- Nhánh developer: thường là nhánh chứa base của Project.
+- Nhánh feature: các tính năng riêng lẻ được phát triển, thường sẽ viết code sau đó push lên đây.
