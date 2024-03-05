@@ -1,4 +1,6 @@
 - Nhánh master: nhánh deploy và bàn giao cho khách hàng.
+- Nhánh hot-fix:
 - Nhánh release:
 - Nhánh fix-bug:
+- Nhánh developer:
 - Nhánh feature:
